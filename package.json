@@ -1,6 +1,6 @@
 {
-  "name": "react-l20n-u",
-  "version": "0.0.16",
+  "name": "react-l20n-es5",
+  "version": "0.0.1",
   "description": "Mozilla's L20n localization framework for React",
   "main": "./build/react-l20n.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcselman/react-l20n.git"
+    "url": "git+https://github.com/murtazazaidi/react-l20n.git"
   },
   "keywords": [
     "l20n",
     "react"
   ],
-  "author": "Marc Selman",
+  "author": ["Marc Selman", "Murtaza Zaidi"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcselman/react-l20n/issues"
+    "url": "https://github.com/murtazazaidi/react-l20n/issues"
   },
-  "homepage": "https://github.com/marcselman/react-l20n#readme",
+  "homepage": "https://github.com/murtazazaidi/react-l20n#readme",
   "dependencies": {
     "l20n": "^4.0.0-beta.1",
     "react": "^15.3.0"
